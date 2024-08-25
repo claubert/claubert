@@ -7,12 +7,16 @@
 - 📝 Estou trablalhando em um projeto pessoal em operações em **Long and Short**📶
 
 
-
-
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=claubert&show_icons=true&theme=vision-friendly-dark)
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=claubert&layout=compact)](https://github.com/claubert/github-readme-stats)
 
+<a href="https://github.com/claubert/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=claubert&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=claubert&repo=convoychat" />
+</a>
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
