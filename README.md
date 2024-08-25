@@ -14,7 +14,7 @@
 <a href="https://github.com/claubert/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=claubert&repo=github-readme-stats" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/claubert/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=claubert&repo=convoychat" />
 </a>
 
