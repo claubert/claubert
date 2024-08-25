@@ -11,12 +11,13 @@
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=claubert&layout=compact)](https://github.com/claubert/github-readme-stats)
 
-<a href="https://github.com/claubert/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=claubert&repo=github-readme-stats" />
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
 </a>
-<a href="https://github.com/claubert/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=claubert&repo=convoychat" />
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
 </a>
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
