@@ -6,13 +6,26 @@
 </div>
 
 
+<div style="display: inline_block"><br>
+ <img align="left" alt="Lopes" height="15" style="border-radius:10px;" src="https://icongr.am/devicon/slack-original.svg?size=128&color=ffffff">
+</div>
+📈 Eu estou atualmente trabalhando com mercado financeiro e estou voltado a criação de indicadores em **BI**📉
+<div style="display: inline_block"><br>
+ <img align="left" alt="Lopes" height="15" style="border-radius:10px;" src="https://icongr.am/devicon/slack-original.svg?size=128&color=ffffff">
+</div>
+📔 Estou estudando algumas linguagens como: **Python, React, MQL5, SQL** lembrando que não sou desenvolvedor e estou fazendo Pós Graduação em BI📝
+<div style="display: inline_block"><br>
+ <img align="left" alt="Lopes" height="15" style="border-radius:10px;" src="https://icongr.am/devicon/slack-original.svg?size=128&color=ffffff">
+</div>
+🤖 Estou trabalhando atualmente na criação em um robô para operações no mercado financeiro
+<div style="display: inline_block"><br>
+ <img align="left" alt="Lopes" height="15" style="border-radius:10px;" src="https://icongr.am/devicon/slack-original.svg?size=128&color=ffffff">
+</div>
+📝 Estou trablalhando em um projeto pessoal em operações em **Long and Short**📶
 
-- 📈 Eu estou atualmente trabalhando com mercado financeiro e estou voltado a criação de indicadores em **BI**📉
-- 📔 Estou estudando algumas linguagens como: **Python, React, MQL5, SQL** lembrando que não sou desenvolvedor e estou fazendo Pós Graduação em BI📝
-- 🤖 Estou trabalhando atualmente na criação em um robô para operações no mercado financeiro
-- 📝 Estou trablalhando em um projeto pessoal em operações em **Long and Short**📶
-##
-##
+
+
+####
 <div>
   <img heght="180cm" src="https://github-readme-stats.vercel.app/api?username=claubert&show_icons=true&theme=algolia"/>
   <img heght="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=claubert&layout=compact&langs_count=16&show_icons=true&theme=algolia"/>
