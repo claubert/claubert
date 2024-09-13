@@ -16,10 +16,10 @@
 <div style="display: inline_block"><br>
   <img align="center" alt= "Cl-Postgree" height="30" width="40" src="https://icongr.am/devicon/postgresql-original.svg?size=136&color=currentColor">
   <img align="center" alt= "Cl-MySql" height="30" width="40" src="https://icongr.am/devicon/mysql-original.svg?size=136&color=currentColor">
-  <img align="center" alt= "Cl-Django" height="30" width="40" src="https://icongr.am/devicon/django-original.svg?size=150&color=currentColor">
+  <img align="center" alt= "Cl-Django" height="70" width="40" src="https://icongr.am/devicon/django-original.svg?size=136&color=currentColor">
   <img align="center" alt="Lopes-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Lopes-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="Lopes" height="150" style="border-radius:40px;" src="https://seeklogo.com/vector-logo/399617/vasco-da-gama">
+  <img align="right" alt="Lopes" height="150" style="border-radius:40px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 </div>
 
 
